@@ -1,0 +1,30 @@
+[[PlaSim]]
+arch = "x86_64"
+git-tree-sha1 = "fbf77646519113aa56faf48ad46a66436fcc1d22"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PlaSim.download]]
+    sha256 = "08ffd1439240415ab0c8af8cd77ee2880aae46f0746dfac4e6a5a9cf3c1dd612"
+    url = "https://github.com/woutersj/PlaSim_jll.jl/releases/download/PlaSim-v0.1.0+0/PlaSim.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[PlaSim]]
+arch = "x86_64"
+git-tree-sha1 = "9ac7960b42fd70dc9299270aa16b56ef145c5cab"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PlaSim.download]]
+    sha256 = "bfa20f9a5753c9634f7a0c9a1cdf0b1d9006a6319076ecb4cc318373f0560131"
+    url = "https://github.com/woutersj/PlaSim_jll.jl/releases/download/PlaSim-v0.1.0+0/PlaSim.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[PlaSim]]
+arch = "x86_64"
+git-tree-sha1 = "968e496c9169e8d5f1386ed3c02c3967460e7041"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PlaSim.download]]
+    sha256 = "5304cf80dc1c1a6804b1b65011a46943a512a1f18b94ca3f0a9c474d6f96e30e"
+    url = "https://github.com/woutersj/PlaSim_jll.jl/releases/download/PlaSim-v0.1.0+0/PlaSim.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
